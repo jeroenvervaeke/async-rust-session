@@ -5,5 +5,3 @@ edition = "2024"
 
 [dependencies]
 tokio = { version = "1.53.1", features = ["full"] }
-
-[[binary]]
